@@ -1,15 +1,15 @@
 import tkinter as tk
 
 # пути к логотипам
-photo_way = ('C:\\Users\\Татьяна\\Desktop\\Новая папка\\Дима\\Питон\\pythonProject\\Портф\\pictures\\1.png')
+photo_way = ('C:\\1.png')
 
-main_photo_way = ('C:\\Users\\Татьяна\\Desktop\\Новая папка\\Дима\\Питон\\pythonProject\\Портф\\pictures\\pic.png')
+main_photo_way = ('C:\\pic.png')
 
-main_photo_way_2 = ('C:\\Users\\Татьяна\\Desktop\\Новая папка\\Дима\\Питон\\pythonProject\\Портф\\pictures\\pic2.png')
+main_photo_way_2 = ('C:\\pic2.png')
 
-main_photo_way_3 = ('C:\\Users\\Татьяна\\Desktop\\Новая папка\\Дима\\Питон\\pythonProject\\Портф\\pictures\\pic3.png')
+main_photo_way_3 = ('C:\\pic3.png')
 
-main_photo_way_4 = ('C:\\Users\\Татьяна\\Desktop\\Новая папка\\Дима\\Питон\\pythonProject\\Портф\\pictures\\pic4.png')
+main_photo_way_4 = ('C:\\pic4.png')
 
 # функция справочного окна
 def reference():
